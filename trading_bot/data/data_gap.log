@@ -1,0 +1,1 @@
+2025-06-26 15:25:30,863 [ERROR]  Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot77576316062:AAEvjGHBT5zMdgEl-khqo0a0x8p10zPSAIs/getMe (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10b284c50>, 'Connection to api.telegram.org timed out. (connect timeout=10)'))

@@ -1,0 +1,12 @@
+2025-06-24 21:14:12,762 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 21:14:12,762 - INFO - 🕓 APScheduler đã khởi động. Đang chờ tới 07:00 (Asia/Ho_Chi_Minh) để bắt đầu training intraday.
+2025-06-24 21:14:12,763 - INFO - Added job "train_model" to job store "default"
+2025-06-24 21:14:12,763 - INFO - Scheduler started
+2025-06-24 21:14:53,060 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 21:14:53,060 - INFO - 🕓 APScheduler đã khởi động. Đang chờ tới 07:00 (Asia/Ho_Chi_Minh) để bắt đầu training intraday.
+2025-06-24 21:14:53,060 - INFO - Added job "train_model" to job store "default"
+2025-06-24 21:14:53,060 - INFO - Scheduler started
+2025-06-24 21:14:58,405 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 21:14:58,405 - INFO - 🕓 APScheduler đã khởi động. Đang chờ tới 07:00 (Asia/Ho_Chi_Minh) để bắt đầu training intraday.
+2025-06-24 21:14:58,405 - INFO - Added job "train_model" to job store "default"
+2025-06-24 21:14:58,405 - INFO - Scheduler started
